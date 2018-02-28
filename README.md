@@ -1,2 +1,5 @@
-# national-express-wifi
-🚌 Automatic National Express Coach Hotspot Login
+## Usage
+
+```
+curl 'https://10.101.0.1/hotspot/hotspot.cgi?method=login' -k -A ''
+```
